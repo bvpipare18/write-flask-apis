@@ -1,0 +1,22 @@
+id,name,age,city,occupation,salary,email,phone_number,address,department
+1,Alice,30,New York,Engineer,85000,alice@example.com,555-1234,123 Maple St,Engineering
+2,Bob,25,Los Angeles,Designer,65000,bob@example.com,555-5678,456 Oak St,Design
+3,Charlie,35,Chicago,Manager,95000,charlie@example.com,555-8765,789 Pine St,Management
+4,David,28,Miami,Analyst,70000,david@example.com,555-4321,321 Cedar St,Analytics
+5,Eva,32,Houston,Consultant,90000,eva@example.com,555-6789,654 Spruce St,Consulting
+6,Frank,40,Boston,Developer,105000,frank@example.com,555-3456,987 Birch St,Development
+7,Grace,27,San Francisco,Salesperson,60000,grace@example.com,555-2345,159 Redwood St,Sales
+8,Hannah,33,Seattle,HR Manager,80000,hannah@example.com,555-7890,951 Elm St,Human Resources
+9,Isaac,29,Denver,Data Scientist,98000,isaac@example.com,555-0987,753 Fir St,Data Science
+10,Jane,31,Phoenix,Marketing Specialist,75000,jane@example.com,555-6543,357 Palm St,Marketing
+11,Kevin,36,Philadelphia,Product Manager,99000,kevin@example.com,555-3210,258 Cypress St,Product
+12,Lily,26,San Diego,Support Specialist,58000,lily@example.com,555-7654,951 Walnut St,Support
+13,Michael,34,Las Vegas,Finance Analyst,85000,michael@example.com,555-2109,753 Cedar Ave,Finance
+14,Nina,38,Atlanta,Operations Manager,102000,nina@example.com,555-5432,456 Birch Ave,Operations
+15,Oscar,24,Portland,Content Writer,55000,oscar@example.com,555-4329,321 Pine Ave,Content
+16,Paul,41,Detroit,Chief Engineer,120000,paul@example.com,555-9087,654 Elm Ave,Engineering
+17,Quincy,28,Dallas,IT Specialist,78000,quincy@example.com,555-8764,789 Maple Ave,IT
+18,Rachel,37,San Antonio,Event Coordinator,69000,rachel@example.com,555-0981,159 Redwood Ave,Events
+19,Sam,30,Columbus,Legal Advisor,95000,sam@example.com,555-2103,357 Fir Ave,Legal
+20,Tina,35,Charlotte,Customer Success Manager,85000,tina@example.com,555-3451,258 Palm Ave,Customer Success
+
