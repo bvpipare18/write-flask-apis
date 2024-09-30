@@ -26,9 +26,6 @@
 
 
 
+![image](https://github.com/user-attachments/assets/c930bd0e-68c9-415c-b9d3-14dc84a5c856)
 
-CREATE TABLE users (
-    id SERIAL PRIMARY KEY,
-    username VARCHAR(100) NOT NULL,
-    password VARCHAR(100) NOT NULL
-);
+![image](https://github.com/user-attachments/assets/bbac9f19-1f6f-4824-bc0e-62c9011275c4)
